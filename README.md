@@ -10,9 +10,10 @@ La concesionaria necesita construir una lista con todos los vehículos que tiene
 + Patente. (patente)
 + Vendido: para indicar si el auto está o no vendido. (vendido)
 <div style="text-align: justify">
-Para ello, se debe requerir el módulo autos que se encuentra en la misma carpeta del archivo donde se está trabajando. Además, se requiere crear un objeto literal llamado 
-concesionaria que contendrá todas las funcionalidades que el cliente solicita.
 
+Para ello, se debe requerir el módulo autos que se encuentra en la misma carpeta del archivo donde se está trabajando. Además, se requiere crear un objeto literal llamado 
+concesionaria que contendrá todas las funcionalidades que el cliente solicita.  
+  
 Nuestro objeto literal debe tener un atributo llamado autos que contenga la lista de automóviles importada anteriormente.
 
 Se debe crear la funcionalidad buscarAuto que reciba por parámetro la patente y devuelva el auto al cual le corresponde. En caso de no encontrar el mismo, deberá 
@@ -38,5 +39,4 @@ va a poder pagarlo. Si ambas condiciones se cumplen, se realiza la compra.
 
 Es por esto que se debe desarrollar la función puedeComprar que reciba por parámetro un auto y una persona y devuelva true si la misma puede comprar el auto.
 
-Por último, se debe escribir la función autosQuePuedeComprar, que recibe una persona y devuelve la lista de autos que puede comprar.
-</div>
+Por último, se debe escribir la función autosQuePuedeComprar, que recibe una persona y devuelve la lista de autos que puede comprar.</div>
