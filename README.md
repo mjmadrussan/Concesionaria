@@ -10,7 +10,7 @@ La concesionaria necesita construir una lista con todos los vehículos que tiene
 + Patente. (patente)
 + Vendido: para indicar si el auto está o no vendido. (vendido)
 
-Para ello, se debe requerir el módulo coches que se encuentra en la misma carpeta del archivo donde se está trabajando. Además, se requiere crear un objeto literal llamado 
+Para ello, se debe requerir el módulo autos que se encuentra en la misma carpeta del archivo donde se está trabajando. Además, se requiere crear un objeto literal llamado 
 concesionaria que contendrá todas las funcionalidades que el cliente solicita.
 
 Nuestro objeto literal debe tener un atributo llamado autos que contenga la lista de automóviles importada anteriormente.

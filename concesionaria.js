@@ -1,7 +1,7 @@
-let autos = require("./coches.js")
+let autos = require("./autos.js")
 
 let concesionaria ={ 
-     autos: autos,
+   autos: autos,
    buscarAuto: function (patente) {
          
          for(i=0; i<autos.length; i++) {
