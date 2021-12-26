@@ -9,7 +9,7 @@ La concesionaria necesita construir una lista con todos los vehículos que tiene
 + Cantidad de cuotas. (cuotas)
 + Patente. (patente)
 + Vendido: para indicar si el auto está o no vendido. (vendido)
-
+<div style="text-align: justify">
 Para ello, se debe requerir el módulo autos que se encuentra en la misma carpeta del archivo donde se está trabajando. Además, se requiere crear un objeto literal llamado 
 concesionaria que contendrá todas las funcionalidades que el cliente solicita.
 
@@ -39,3 +39,4 @@ va a poder pagarlo. Si ambas condiciones se cumplen, se realiza la compra.
 Es por esto que se debe desarrollar la función puedeComprar que reciba por parámetro un auto y una persona y devuelva true si la misma puede comprar el auto.
 
 Por último, se debe escribir la función autosQuePuedeComprar, que recibe una persona y devuelve la lista de autos que puede comprar.
+</div>
